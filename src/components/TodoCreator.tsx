@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const StyledWrapper = styled.div`
-  border: 1px solid #333;
+  border: 1px solid #d0d7de;
   border-radius: 1rem;
   padding: 1rem;
 `;
