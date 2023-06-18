@@ -1,7 +1,9 @@
+import TodoCreator from '@/components/TodoCreator';
+
 const Home = () => {
   return (
     <div>
-      <h1>hello world</h1>
+      <TodoCreator />
     </div>
   );
 };
