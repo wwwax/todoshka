@@ -10,7 +10,10 @@ const GlobalStyle = createGlobalStyle`
   html {
     font-family: monospace;
     font-size: 16px;
-    color: red;
+  }
+
+  body {
+    padding: 1rem;
   }
 `;
 
